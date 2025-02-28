@@ -2,7 +2,6 @@
 
 Bem-vindo(a) ao repositório oficial do curso **"Programando em Java: Do Zero ao Profissional + Projetos Reais"**! Aqui você encontrará todos os códigos-fonte, exemplos e projetos desenvolvidos durante as aulas. Este repositório foi criado para ajudar você a acompanhar o curso de forma prática e organizada.
 
----
 
 ## 📂 **Estrutura do Repositório**
 
