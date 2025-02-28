@@ -31,7 +31,6 @@ javacompleto/
 │ └── api  
 │ └── web  
 ````
----
 
 ## 🛠️ **Como Usar Este Repositório**
 
