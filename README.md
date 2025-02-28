@@ -53,7 +53,7 @@ javacompleto/
 
 -   **Java**  (JDK 21 ou superior)
     
--   **Spring Boot**  (para APIs RESTful e integração com bancos de dados)
+-   **Spring Boot**  (para APIs RESTful, integração com bancos de dados e web)
     
 -   **JavaFX**  (para interfaces gráficas)
     
