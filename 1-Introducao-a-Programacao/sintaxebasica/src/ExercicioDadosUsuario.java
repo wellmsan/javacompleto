@@ -17,7 +17,7 @@ public class ExercicioDadosUsuario {
         System.out.println("Qual a sua altura");
         altura = entrada.nextDouble();
 
-        // Monstando uma mensagem de boas vindas
+        // Mostando uma mensagem de boas vindas
         System.out.print("Olá, " + nome + "! ");
 
         // Calcular tempo para 50 anos e exibir mensagem
