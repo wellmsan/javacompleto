@@ -85,6 +85,7 @@ Este treinamento mantido e ministrado pelo **Prof. MSc. Welber M.**
 
 Acesse meu [LinkedIn](https://www.linkedin.com/in/w3ll/)
 
----
+----
 
 Aproveite o curso e bons estudos! Se tiver dúvidas, entre em contato ou abra uma issue no repositório. 🚀
+ 
