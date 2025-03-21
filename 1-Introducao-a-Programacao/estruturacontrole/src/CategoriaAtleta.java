@@ -22,6 +22,8 @@ public class CategoriaAtleta {
          else
             categoria = "Master";
 
+        entrada.close();
+
         System.out.println(categoria);
     }
 }
