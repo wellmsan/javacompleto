@@ -14,6 +14,7 @@ javacompleto/
 │ └── sintaxebasica/
 │ └── estruturacontrole/
 │ └── estruturarepeticao/
+│ └── vetoresematrizes/
 │ └── ...
 ├── 2-Estrutura-de-Dados-e-Modularizacao/
 │ └── ...
