@@ -9,12 +9,13 @@ O repositório está organizado em pastas por seções e aulas, seguindo a estru
 ```bash
 javacompleto/
 ├── 1-Introducao-a-Programacao/
-│ └── algoritmo/
-│ └── principiosjava/
-│ └── sintaxebasica/
-│ └── estruturacontrole/
-│ └── estruturarepeticao/
-│ └── vetoresematrizes/
+│ └── 1-algoritmo/
+│ └── 2-principiosjava/
+│ └── 3-sintaxebasica/
+│ └── 4-estruturacontrole/
+│ └── 5-estruturarepeticao/
+│ └── 6-vetoresematrizes/
+│ └── 7-desafiopratico/
 │ └── ...
 ├── 2-Estrutura-de-Dados-e-Modularizacao/
 │ └── ...
@@ -46,7 +47,7 @@ javacompleto/
 2. **Navegue até a pasta da aula ou projeto**:
 
    ```bash
-   cd javacompleto/1-Introducao-a-Programacao/principiosjava
+   cd javacompleto/1-Introducao-a-Programacao/2-principiosjava
 
    ```
 
