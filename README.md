@@ -20,6 +20,9 @@ javacompleto/
 ├── 2-Estrutura-de-Dados-e-Modularizacao/
 │ └── 1-estruturadados/
 │ └── 2-operacaolista/
+│ └── 3-algoritmopesquisa/
+│ └── 4-algoritmoordenacao/
+│ └── 2-modularizacao/
 │ └── ...
 ├── 3-Programacao-Orientada-a-Objetos/
 │ └── ...
@@ -90,7 +93,6 @@ Este treinamento mantido e ministrado pelo **Prof. MSc. Welber M.**
 
 Acesse meu [LinkedIn](https://www.linkedin.com/in/w3ll/)
 
-----
+---
 
 Aproveite o curso e bons estudos! Se tiver dúvidas, entre em contato ou abra uma issue no repositório. 🚀
- 
