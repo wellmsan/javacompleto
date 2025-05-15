@@ -1,0 +1,7 @@
+interface Animal {
+    void emitirSom();
+}
+
+
+
+
