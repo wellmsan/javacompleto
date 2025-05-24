@@ -1,5 +1,6 @@
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
@@ -11,8 +12,10 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        Label label = new Label("Aula de JavaFX");
-        StackPane root = new StackPane(label);
+        Button btn = new Button("Clique aqui...");
+        btn.setOnAction(e -> System.out.println("Foi aqui que clicou..."));
+
+        StackPane root = new StackPane(btn);
 
         Scene scene = new Scene(root);
         primaryStage.setTitle("ADS - AGES");
