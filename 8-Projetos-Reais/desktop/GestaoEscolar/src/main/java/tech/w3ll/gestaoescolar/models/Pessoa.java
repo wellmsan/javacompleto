@@ -1,4 +1,4 @@
-package modelos;
+package main.java.tech.w3ll.gestaoescolar.models;
 
 import java.util.Date;
 
@@ -14,6 +14,7 @@ public abstract class Pessoa {
         this.dataNascimento = dataNascimento;
         this.email = email;
     }
+
 
     public String getNome() {
         return nome;

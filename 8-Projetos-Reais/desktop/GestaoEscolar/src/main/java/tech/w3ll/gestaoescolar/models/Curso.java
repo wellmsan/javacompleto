@@ -1,4 +1,4 @@
-package modelos;
+package main.java.tech.w3ll.gestaoescolar.models;
 
 public class Curso {
     private String nome;

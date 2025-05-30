@@ -1,4 +1,4 @@
-package modelos;
+package main.java.tech.w3ll.gestaoescolar.models;
 
 import java.util.Date;
 
