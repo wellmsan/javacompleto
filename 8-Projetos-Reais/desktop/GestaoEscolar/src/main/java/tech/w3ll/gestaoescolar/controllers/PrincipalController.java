@@ -26,7 +26,11 @@ public class PrincipalController {
     @FXML
     public void abrirListaAlunos(MouseEvent mouseEvent) throws IOException {
         loadScreen("/fxml/alunos/alunos-lista.fxml");
+    }
 
+    @FXML
+    public void abrirListaProfessores(MouseEvent mouseEvent) {
+        loadScreen("/fxml/professores/professores-lista.fxml");
     }
 
     private void loadScreen(String fxmlPath) {
@@ -55,5 +59,6 @@ public class PrincipalController {
             // Aqui você pode adicionar tratamento de erro adequado
         }
     }
+
 
 }

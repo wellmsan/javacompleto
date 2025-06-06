@@ -8,12 +8,11 @@ import java.util.Date;
 import java.util.List;
 
 public class AlunoRepoLista implements AlunoInterface {
-    private List<Aluno> alunos;
+    private static final List<Aluno> alunos = new ArrayList<>();
 
     public AlunoRepoLista() {
-        alunos = new ArrayList<>();
-        alunos.add(new Aluno("Welber", "0121230123-82", new Date("02/09/2983"), "welbermsantana@gmail.com"));
-        alunos.add(new Aluno("Juliana", "0121230123-82", new Date("02/09/2983"), "juliana@gmail.com"));
+        alunos.add(new Aluno("Welber", "123.123.123-98", new Date("02/09/1983"), "welber@gmail.com"));
+        alunos.add(new Aluno("Juliana", "123.123.123-93", new Date("01/08/1983"), "juliana@gmail.com"));
     }
 
     @Override

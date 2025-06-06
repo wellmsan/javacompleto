@@ -75,7 +75,7 @@
                         <Insets left="20.0" />
                      </padding>
             </Label>
-                  <Label layoutY="129.0" minWidth="60.0" prefHeight="42.0" prefWidth="222.0" style="-fx-background-color: #E6E6FA;" text="Professores" textAlignment="CENTER" wrapText="false">
+                  <Label fx:id="btnProfessores" layoutY="129.0" minWidth="60.0" onMouseClicked="#abrirListaProfessores" prefHeight="42.0" prefWidth="222.0" style="-fx-background-color: #E6E6FA;" text="Professores" textAlignment="CENTER" wrapText="false">
                      <font>
                         <Font size="18.0" fx:id="x11" />
                      </font>
